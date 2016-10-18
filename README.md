@@ -1,3 +1,3 @@
 # hello-world
 
-This repository be used for python and java projects.
+This repository will be used for python and java projects.
